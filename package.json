@@ -1,4 +1,12 @@
 {
+  "name": "blogs",
+  "version": "1.0.0",
+  "main": "next.config.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
