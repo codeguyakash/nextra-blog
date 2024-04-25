@@ -1,7 +1,8 @@
 export default {
-  footer: <p>MIT 2023 © Nextra.</p>,
+  // footer: <p >*_*</p>,
   head: ({ title, meta }) => (
     <>
+    {title="Akash"}
       {meta.description && (
         <meta name="description" content={meta.description} />
       )}
@@ -14,8 +15,8 @@ export default {
   darkMode: false,
   navs: [
     {
-      url: "https://github.com/shuding/nextra",
-      name: "Nextra",
+      url: "https://github.com/codeguyakash",
+      name: "Akash",
     },
   ],
 };
