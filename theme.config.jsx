@@ -14,13 +14,6 @@ export default {
   postFooter: true,
   darkMode: false,
   navs: [
-    {
-      url: "https://github.com/codeguyakash",
-      name: "About",
-    },
-    {
-      url: "https://github.com/codeguyakash",
-      name: "Akash",
-    },
+    
   ],
 };
