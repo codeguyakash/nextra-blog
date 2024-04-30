@@ -1,5 +1,5 @@
 export default {
-  // footer: <p >*_*</p>,
+  footer: <a href="https://twitter.com/codeguyakash" style={{textDecoration:"none"}}>2024 © codeguyakash</a>,
   head: ({ title, meta }) => (
     <>
     {title="Akash"}
@@ -11,9 +11,13 @@ export default {
     </>
   ),
   readMore: "Read More →",
-  postFooter: null,
+  postFooter: true,
   darkMode: false,
   navs: [
+    {
+      url: "https://github.com/codeguyakash",
+      name: "About",
+    },
     {
       url: "https://github.com/codeguyakash",
       name: "Akash",
